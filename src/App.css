@@ -21,6 +21,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #f0eac9;
 }
 
 nav ul li {
@@ -155,9 +156,18 @@ input, label{
   border-radius: 4px;
 
 }
+.confirm{
+  padding: 10px 13%;
+  text-align: center;
+}
 
-.comfirm span{
-  color: blue;
+.confirm span{
+  color:green;
+
+
+}
+.confirm h3{
+  color: #F4CE14;
 }
 
 
@@ -190,7 +200,7 @@ input, label{
 .menu-items{
   /* height: 400px; */
   width: 350px;
-  background: #a9c8be;
+  background: #d5d8d7;
   border-radius: 8px;
 }
 
@@ -222,6 +232,7 @@ footer section{
   display: flex;
   justify-content: space-between;
   align-items: start;
+  background-color: #f0eac9;
 }
 
 .company-info img{
@@ -264,7 +275,7 @@ footer ul li{
   }
 
   .navbar{
-    background:#fff;
+    background:#c6d30d;
     padding: 10px 8%;
   }
 
@@ -273,7 +284,7 @@ footer ul li{
   }
 
   .bar{
-    background: #333333;
+    background: #36d60e;
   }
 
   .banner-img{
